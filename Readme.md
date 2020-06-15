@@ -8,6 +8,4 @@ All you need to do is enter the URL into the search bar and you will get a compl
 Cons: The process is completely manual. There is also no guarantee for the stability of archived content. Results 
 are not nearly as accurate as a full-page screenshot. Lastly, there is no support provided.
 
-The flag was in https://github.com/supersecretuser789 but it was deleted unfortunately.
-
 Despite a few flaws, we all love Wayback Machine for the contributions it has made to the Internet.
